@@ -1,10 +1,10 @@
-title = "Hinode"
-copyright = "Copyright © 2024 Mark Dumay."
+title = "PandaAdventures"
+copyright = "Copyright © 2024 Raphaël Deschler."
 paginate = 9
 enableGitInfo = true
 
 # additional settings
-baseURL = "https://example.com/"
+baseURL = "https://travel.raphael-deschler.fr/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
@@ -17,8 +17,8 @@ ignoreErrors = ["error-remote-getjson"]
 
 timeout = "180s"
 
-languageCode = "en-us"
-defaultContentLanguage = "en"
+languageCode = "fr-fr"
+defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 
 [outputFormats.REDIR]
